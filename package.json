@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "Sistema de gestión interno para una clínica dental, desarrollado como proyecto de aprendizaje con **Node.js**.   El objetivo es construir la base de una aplicación de gestión de empleados, pensada para escalar en el futuro hacia un sistema completo de gestión de personal y clientes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaRocha/nodeJS-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ElenaRocha/nodeJS-API/issues"
+  },
+  "homepage": "https://github.com/ElenaRocha/nodeJS-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
